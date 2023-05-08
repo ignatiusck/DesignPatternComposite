@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rCm3BksVXcv25aTIVcA8pCYAsc/bQwgnhaVGSA4n8w1w2vWiKHj+kwcEFhE89rzvwIshAiT3SxzzatJen0uIjA==",
+  "dgSpecHash": "UcoIStb1+1N5QeQcyjhS05AvWy5Y/VmwdSnu19+IyQcI+tl2dK940BkoitWr8VgjdE/l8Rg0QhiAcaS/bjJPlQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\FORMULATRIX\\Desktop\\FromTrainer\\DesignPattern\\Composite\\Composite.csproj",
+  "projectFilePath": "/home/ignatius/Desktop/Bootcamp2/DesignPatternComposite/Composite/Composite.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
