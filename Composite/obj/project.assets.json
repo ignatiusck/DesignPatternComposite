@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/ignatius/.nuget/packages/": {}
+    "C:\\Users\\FORMULATRIX\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ignatius/Desktop/Bootcamp2/DesignPatternComposite/Composite/Composite.csproj",
+      "projectUniqueName": "c:\\Users\\FORMULATRIX\\Desktop\\DesignPatternComposite\\Composite\\Composite.csproj",
       "projectName": "Composite",
-      "projectPath": "/home/ignatius/Desktop/Bootcamp2/DesignPatternComposite/Composite/Composite.csproj",
-      "packagesPath": "/home/ignatius/.nuget/packages/",
-      "outputPath": "/home/ignatius/Desktop/Bootcamp2/DesignPatternComposite/Composite/obj/",
+      "projectPath": "c:\\Users\\FORMULATRIX\\Desktop\\DesignPatternComposite\\Composite\\Composite.csproj",
+      "packagesPath": "C:\\Users\\FORMULATRIX\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\FORMULATRIX\\Desktop\\DesignPatternComposite\\Composite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/ignatius/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\FORMULATRIX\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
